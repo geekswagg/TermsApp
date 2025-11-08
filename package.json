@@ -39,7 +39,7 @@
     "qrcode": "^1.5.3",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
-    "uikit": "^3.19.2",
+    "uikit": "^3.24.2",
     "zone.js": "~0.14.2"
   },
   "devDependencies": {
